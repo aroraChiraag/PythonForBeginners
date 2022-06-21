@@ -59,7 +59,7 @@ Tornado
 As I have mentioned before, Python has a powerful community. You might think that it shouldn\'t be one of the main reasons why you need to select Python. 
 But the truth is vice versa.
 
-If you don\`t get support from other specialists, your learning path can be difficult. That`s why you should know that this won`t happen with your 
+If you don\`t get support from other specialists, your learning path can be difficult. That\`s why you should know that this won\`t happen with your 
 Python learning journey.
 
 Here is a list of some Python communities:
