@@ -84,7 +84,7 @@ StackOverflow: http://stackoverflow.com/questions/tagged/python?sort=newest
 Using Python automation frameworks like PYunit gives you a lot of advantages:
 
 No additional modules are required to install. They come with the box
-Even if you don`t have Python background you will find work with Unittest very comfortable. It is derivative and its working principle is similar to other 
+Even if you don\`t have Python background you will find work with Unittest very comfortable. It is derivative and its working principle is similar to other 
 xUnit frameworks. You can run singular experiments in a more straightforward way. You should simply indicate the names on the terminal. The output is compact 
 too, making the structure adaptable with regards to executing test cases. The test reports are generated within milliseconds.
 
